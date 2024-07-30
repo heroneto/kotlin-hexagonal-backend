@@ -13,10 +13,10 @@ Este é um projeto do curso da Udemy Arquitetura Hexagonal com Kotlin NA PRÁTIC
 
 **TODOs -> Funcionalidades**
 
-- [ ] Cadastro de usuários
+- [x] Cadastro de usuários
 - [ ] Edição de usuários
 - [ ] Remoção de usuários
-- [ ] Leitura de usuários
+- [x] Leitura de usuários
 - [ ] Validação de CPF
 - [ ] Validação de endereço via CEP
 - [ ] Deploy da aplicação no ambiente
